@@ -1,0 +1,66 @@
+
+
+[
+    {
+      "id": 1,
+      "title": "Americano Coffee",
+      "price": "9.10",
+      "image": "./images/coffee7.png"
+    },
+    {
+      "id": 2,
+      "title": "Latte",
+      "price": "5.45",
+      "image": "./images/coffee17.png"
+    },
+    {
+      "id": 3,
+      "title": "Espresso",
+      "price": "4.99",
+      "image": "./images/coffee16.png"
+    },
+    {
+      "id": 4,
+      "title": "Caffe mocha",
+      "price": "7.15",
+      "image": "./images/coffee12.png"
+    },
+    {
+      "id": 5,
+      "title": "irish coffee",
+      "price": "8.99",
+      "image": "./images/coffee18.png"
+    },
+       {
+      "id": 6,
+      "title": "cortado",
+      "price": "9.77",
+      "image": "./images/coffee-8.png"
+    },
+    {
+      "id": 7,
+      "title": "Cuban espresso",
+      "price": "3.29",
+      "image": "./images/coffee-10.png"
+    },
+    {
+      "id": 8,
+      "title": "Flat white",
+      "price": "5.79",
+      "image": "./images/coffee14.png"
+    },
+           {
+      "id": 9,
+      "title": "Coffee",
+      "price": "3.99",
+      "image": "./images/coffee13.png"
+    },
+           {
+      "id": 10,
+      "title": "Cappuccion",
+      "price": "4.55",
+      "image": "./images/coffee19.png"
+    }
+  ]
+  
+  
